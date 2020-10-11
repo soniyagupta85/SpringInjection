@@ -1,0 +1,6 @@
+com\soniya\framework\testclasses\toload\A1.class
+com\soniya\framework\testclasses\toload\A3.class
+com\soniya\framework\fordependency\SpringInjection.class
+com\soniya\framework\testclasses\toload\A2.class
+com\soniya\framework\fordependency\SpringException.class
+com\soniya\framework\fortesting\MyTestClass.class
